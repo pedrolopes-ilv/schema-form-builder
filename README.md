@@ -133,10 +133,11 @@ Conditions are declarative and evaluated at runtime.
 - equals
 - notEquals
 - contains
+- notContains
 - greaterThan
+- greaterThanOrEqual
 - lessThan
-- isEmpty
-- isNotEmpty
+- lessThanOrEqual
 
 ## 📤 Output Format
 
